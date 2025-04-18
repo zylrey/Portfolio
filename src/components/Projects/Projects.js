@@ -34,7 +34,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               isBlog={false}
-              title="Prison-Management-System"
+              title="Prison Management System"
               description="The Prison Management System is a comprehensive web-based application developed to efficiently manage the day-to-day operations of correctional facilities. This system provides tools for tracking inmate records, staff assignments, cell allocations, parole details, and visitor logs — all in a centralized and secure environment."
               ghLink="https://github.com/zylrey/Prison-Management-System"
               demoLink=""
